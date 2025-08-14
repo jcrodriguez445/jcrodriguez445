@@ -1,11 +1,4 @@
-## Hi there im juan carlos 👋
-## student of the catholic university of colombia
-## ing sistem 
-## B+ english
-## translator
-
-
- ¡Hola! 👋 Soy Juan Carlos  
+¡Hola! 👋 Soy Juan Carlos  
 
 💻 **Desarrollador / Rol principal** | 📍 **Ubicación (opcional)**  
 
